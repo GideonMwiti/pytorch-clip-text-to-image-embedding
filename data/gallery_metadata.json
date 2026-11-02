@@ -1,0 +1,72 @@
+{
+  "gallery": [
+    {
+      "id": "img_galaxy",
+      "filename": "galaxy.png",
+      "category": "Astrophysics",
+      "title": "Spiral Galaxy",
+      "canonical_description": "A spiral galaxy shining in deep space surrounded by stars"
+    },
+    {
+      "id": "img_sunset",
+      "filename": "sunset_beach.png",
+      "category": "Nature & Landscape",
+      "title": "Sunset Over Ocean",
+      "canonical_description": "A golden sunset over calm ocean waves with an orange sky"
+    },
+    {
+      "id": "img_forest",
+      "filename": "pine_forest.png",
+      "category": "Nature & Landscape",
+      "title": "Pine Forest",
+      "canonical_description": "A lush green forest with tall pine trees and green grass"
+    },
+    {
+      "id": "img_mountain",
+      "filename": "snowy_mountain.png",
+      "category": "Nature & Landscape",
+      "title": "Snowy Mountain Peaks",
+      "canonical_description": "Majestic snowy mountain peaks against a bright blue sky"
+    },
+    {
+      "id": "img_circuit",
+      "filename": "cyber_circuit.png",
+      "category": "Technology",
+      "title": "Electronic Circuit Board",
+      "canonical_description": "A high-tech green printed circuit board with glowing electronic traces and microchips"
+    },
+    {
+      "id": "img_coffee",
+      "filename": "coffee_cup.png",
+      "category": "Food & Beverage",
+      "title": "Latte Coffee Cup",
+      "canonical_description": "A cup of hot coffee with white heart latte foam art"
+    }
+  ],
+  "benchmark_queries": [
+    {
+      "query": "A glowing cosmic galaxy with spiral arms in deep space",
+      "target_id": "img_galaxy"
+    },
+    {
+      "query": "Sun setting over the sea horizon with warm orange reflections",
+      "target_id": "img_sunset"
+    },
+    {
+      "query": "Evergreen coniferous woodland with dense pine foliage",
+      "target_id": "img_forest"
+    },
+    {
+      "query": "High altitude alpine summit covered in snow and ice",
+      "target_id": "img_mountain"
+    },
+    {
+      "query": "Computer hardware motherboard with copper circuitry traces",
+      "target_id": "img_circuit"
+    },
+    {
+      "query": "Freshly brewed espresso beverage with creamy heart-shaped milk froth",
+      "target_id": "img_coffee"
+    }
+  ]
+}
