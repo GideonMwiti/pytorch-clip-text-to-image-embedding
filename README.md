@@ -160,3 +160,4 @@ python main.py --interactive
 
 - Radford et al., *"Learning Transferable Visual Models From Natural Language Supervision (CLIP)"*, ICML 2021.
 - Dosovitskiy et al., *"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (ViT)"*, ICLR 2021.
+

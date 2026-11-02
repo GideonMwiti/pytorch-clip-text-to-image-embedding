@@ -134,3 +134,4 @@ create_mountain(os.path.join(IMG_DIR, "snowy_mountain.png"))
 create_circuit(os.path.join(IMG_DIR, "cyber_circuit.png"))
 create_coffee(os.path.join(IMG_DIR, "coffee_cup.png"))
 print("Generated all 6 gallery images successfully.")
+
